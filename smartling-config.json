@@ -33,7 +33,7 @@
             "pathRegex"                 : "source\\/.+\\.xml",
             "translationPathExpression" : "translations/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
-                 "smartling.translate_paths = TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductNameShort'], TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductLongDescription']/Mastertext, TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductNameLong']/Mastertext, TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductShortDescription']/Mastertext",
+                 "smartling.translate_paths = TranslationMessage/Product/TranslationFields/TranslationField",
                  "smartling.variants_enabled = true"
             ]
          }
