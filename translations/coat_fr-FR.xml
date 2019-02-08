@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TranslationMessage xmlns="http://www.inriver.com/pim/6/std/3.0">
+  <TransactionDateTime>2019-01-22T13:32:29+01:00</TransactionDateTime>
+  <TranslationOrderID>ca140ec0-5c49-4513-b070-bd6efe640a4f</TranslationOrderID>
+  <MasterLanguage>en-GB</MasterLanguage>
+  <TranslationDueDate>2019-01-24</TranslationDueDate>
+  <TranslationInstruction></TranslationInstruction>
+  <Product systemId="5848903" uniqueId="0783417">
+    <MajorChange>false</MajorChange>
+    <TranslationLanguages>
+      <TranslationLanguage>en-US</TranslationLanguage>
+    </TranslationLanguages>
+    <TranslationFields>
+      <TranslationField fieldTypeId="ProductNameShort" maxlen="30">
+        <Mastertext>C~óát</Mastertext>
+      </TranslationField>
+      <TranslationField fieldTypeId="ProductLongDescription" maxlen="800">
+        <Mastertext>R~éáll~ý wár~m cóá~t wít~h á hó~ód.</Mastertext>
+      </TranslationField>
+      <TranslationField fieldTypeId="ProductNameLong" maxlen="30">
+        <Mastertext>K~ñéé ~léñg~th có~át w~íth á~rms</Mastertext>
+      </TranslationField>
+      <TranslationField fieldTypeId="ProductShortDescription" maxlen="95">
+        <Mastertext>C~óát á~ñd hó~ód.</Mastertext>
+      </TranslationField>
+    </TranslationFields>
+    <SupportingFields>
+      <SupportingField fieldTypeId="ProductCastorID">0783417</SupportingField>
+      <SupportingField fieldTypeId="ProductTypeInternal">Other dress</SupportingField>
+      <SupportingField fieldTypeId="ProductDivision">Divided Girls (17)</SupportingField>
+      <SupportingField fieldTypeId="ProductDepartment">Read &amp; React (4092)</SupportingField>
+      <SupportingField fieldTypeId="ProductSection">Divided Other (70)</SupportingField>
+      <SupportingField fieldTypeId="ProductTranslationComment"></SupportingField>
+      <SupportingField fieldTypeId="ProductCollection"></SupportingField>
+      <SupportingField fieldTypeId="ProductDesignerCollection"></SupportingField>
+      <SupportingField fieldTypeId="ProductStyle">Keyhole, Smocking, Stand-up collar</SupportingField>
+      <SupportingField fieldTypeId="ProductDescriptiveLength">Short, Long sleeve</SupportingField>
+      <SupportingField fieldTypeId="ProductContext"></SupportingField>
+      <SupportingField fieldTypeId="ProductCustomerGroup">Woman</SupportingField>
+      <SupportingField fieldTypeId="ProductAgeGroup">Adult</SupportingField>
+      <SupportingField fieldTypeId="ProductDescriptiveLength">Short, Long sleeve</SupportingField>
+    </SupportingFields>
+    <Articles>
+      <Article systemId="5849709" uniqueId="0783417001">
+        <MajorChange>false</MajorChange>
+        <TranslationLanguages></TranslationLanguages>
+        <TranslationFields></TranslationFields>
+        <SupportingFields>
+          <SupportingField fieldTypeId="ArticleNumber">0783417001</SupportingField>
+          <SupportingField fieldTypeId="ArticleProductCastorID">0783417</SupportingField>
+          <SupportingField fieldTypeId="ArticleCastorID">001</SupportingField>
+          <SupportingField fieldTypeId="ArticleSizes">32, 34, 36, 38, 40, 42, 44</SupportingField>
+          <SupportingField fieldTypeId="ArticleSeason">201909</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleColorValue">Dusty Light</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorMaster">Beige</SupportingField>
+          <SupportingField fieldTypeId="ArticlePrintText"></SupportingField>
+          <SupportingField fieldTypeId="ArticlePattern">leopard-print</SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseCompany"></SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseItem"></SupportingField>
+          <SupportingField fieldTypeId="ArticleFragranceName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleCompositionList">{&quot;&quot;:{&quot;materials&quot;:{&quot;polyester&quot;:&quot;97&quot;,&quot;elastane&quot;:&quot;3&quot;}}}</SupportingField>
+        </SupportingFields>
+      </Article>
+      <Article systemId="5849710" uniqueId="0783417003">
+        <MajorChange>false</MajorChange>
+        <TranslationLanguages></TranslationLanguages>
+        <TranslationFields></TranslationFields>
+        <SupportingFields>
+          <SupportingField fieldTypeId="ArticleNumber">0783417003</SupportingField>
+          <SupportingField fieldTypeId="ArticleProductCastorID">0783417</SupportingField>
+          <SupportingField fieldTypeId="ArticleCastorID">003</SupportingField>
+          <SupportingField fieldTypeId="ArticleSizes">32, 34, 36, 38, 40, 42, 44</SupportingField>
+          <SupportingField fieldTypeId="ArticleSeason">201909</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleColorValue">Dusty Light</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorMaster">White </SupportingField>
+          <SupportingField fieldTypeId="ArticlePrintText"></SupportingField>
+          <SupportingField fieldTypeId="ArticlePattern"></SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseCompany"></SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseItem"></SupportingField>
+          <SupportingField fieldTypeId="ArticleFragranceName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleCompositionList">{&quot;&quot;:{&quot;materials&quot;:{&quot;polyester&quot;:&quot;97&quot;,&quot;elastane&quot;:&quot;3&quot;}}}</SupportingField>
+        </SupportingFields>
+      </Article>
+      <Article systemId="5849711" uniqueId="0783417002">
+        <MajorChange>false</MajorChange>
+        <TranslationLanguages></TranslationLanguages>
+        <TranslationFields></TranslationFields>
+        <SupportingFields>
+          <SupportingField fieldTypeId="ArticleNumber">0783417002</SupportingField>
+          <SupportingField fieldTypeId="ArticleProductCastorID">0783417</SupportingField>
+          <SupportingField fieldTypeId="ArticleCastorID">002</SupportingField>
+          <SupportingField fieldTypeId="ArticleSizes">32, 34, 36, 38, 40, 42, 44</SupportingField>
+          <SupportingField fieldTypeId="ArticleSeason">201909</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleColorValue">Dark</SupportingField>
+          <SupportingField fieldTypeId="ArticleColorMaster">Black</SupportingField>
+          <SupportingField fieldTypeId="ArticlePrintText"></SupportingField>
+          <SupportingField fieldTypeId="ArticlePattern">Floral</SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseCompany"></SupportingField>
+          <SupportingField fieldTypeId="ArticleLicenseItem"></SupportingField>
+          <SupportingField fieldTypeId="ArticleFragranceName"></SupportingField>
+          <SupportingField fieldTypeId="ArticleCompositionList">{&quot;&quot;:{&quot;materials&quot;:{&quot;polyester&quot;:&quot;97&quot;,&quot;elastane&quot;:&quot;3&quot;}}}</SupportingField>
+        </SupportingFields>
+      </Article>
+    </Articles>
+  </Product>
+</TranslationMessage>
