@@ -12,16 +12,16 @@
     </TranslationLanguages>
     <TranslationFields>
       <TranslationField fieldTypeId="ProductNameShort" maxlen="30">
-        <Mastertext>T~úñíc</Mastertext>
+        <Mastertext>Tunika</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductLongDescription" maxlen="800">
-        <Mastertext>Á ~túñí~c íñ á ~wóvé~ñ ,cr~épé q~úálí~tý wí~th á p~ríñt~éd pá~ttér~ñ. Th~é túñ~íc há~s á sm~ócké~d stá~ñd có~llár ~áñd ó~péñí~ñg át ~thé b~áck w~íth s~máll ~bútt~óñs í~ñ thé ~ñéck~. Lóñ~g slé~évé. ~Róúñ~déd h~ém.</Mastertext>
+        <Mastertext>Eine Tunika in eine gewebte, Krepp-Qualität mit einem gedruckten Muster. Die Tunika hat einen gesmokten Stehkragen und Öffnung auf der Rückseite mit kleinen Knöpfen am Hals. Lange Ärmel. Abgerundeter Saum.</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductNameLong" maxlen="30">
-        <Mastertext>T~úñí~c wít~h sm~óck</Mastertext>
+        <Mastertext>Tunika mit smock</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductShortDescription" maxlen="95">
-        <Mastertext>Á ~túñ~íc íñ ~á cré~pé, w~óvéñ ~qúál~ítý ~wíth ~á prí~ñtéd ~pátt~érñ</Mastertext>
+        <Mastertext>Eine Tunika in ein Crepe, gewebte Qualität mit einem gedruckten Muster</Mastertext>
       </TranslationField>
     </TranslationFields>
     <SupportingFields>
