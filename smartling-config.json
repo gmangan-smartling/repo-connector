@@ -29,7 +29,7 @@
 
          {
             "type"                      : "xml",
-            "authorizeContent"          : "true",
+            "authorizeContent"          : "false",
             "pathRegex"                 : "source\\/.+\\.xml",
             "translationPathExpression" : "translations/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "smartlingDirectives"       : [
