@@ -12,16 +12,16 @@
     </TranslationLanguages>
     <TranslationFields>
       <TranslationField fieldTypeId="ProductNameShort" maxlen="30">
-        <Mastertext>J~áck~ét</Mastertext>
+        <Mastertext>Jacke</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductLongDescription" maxlen="800">
-        <Mastertext>R~éál~lý wá~rm já~cké~t wít~h á hó~ód.</Mastertext>
+        <Mastertext>Wirklich warme Jacke mit Kapuze.</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductNameLong" maxlen="30">
-        <Mastertext>K~ñéé l~éñgt~h jác~két w~íth á~rms</Mastertext>
+        <Mastertext>Knie Länge Jacke mit Armen</Mastertext>
       </TranslationField>
       <TranslationField fieldTypeId="ProductShortDescription" maxlen="95">
-        <Mastertext>J~áck~ét áñ~d hó~ód.</Mastertext>
+        <Mastertext>Jacke und Haube.</Mastertext>
       </TranslationField>
     </TranslationFields>
     <SupportingFields>
