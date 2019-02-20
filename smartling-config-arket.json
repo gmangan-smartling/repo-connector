@@ -1,0 +1,40 @@
+{
+  "locales": [
+    {
+      "smartling": "fr-FR",
+      "application": "fr-FR"
+    },
+    {
+      "smartling": "de-DE",
+      "application": "de-DE"
+    },
+    {
+      "smartling": "pt-PT",
+      "application": "pt-PT"
+    },
+    {
+      "smartling": "es-ES",
+      "application": "es-ES"
+    },
+    {
+      "smartling": "it-IT",
+      "application": "it-IT"
+    }
+  ],
+  "resourceSets": [
+    {
+      "type": "javaProperties",
+      "pathRegex": "messages\\/.*\\.properties"
+    },
+    {
+      "type": "xml",
+      "authorizeContent": "false",
+      "pathRegex": "source\\/arket.+\\.xml",
+      "translationPathExpression": "translations/${originalFile.baseName}_${locale}.${originalFile.extension}",
+      "smartlingDirectives": [
+        "smartling.translate_paths = TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductNameShort']/Mastertext, TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductLongDescription']/Mastertext, TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductNameLong']/Mastertext, TranslationMessage/Product/TranslationFields/TranslationField[@fieldTypeId='ProductShortDescription']/Mastertext",
+        "smartling.variants_enabled = true"
+      ]
+    }
+  ]
+}
