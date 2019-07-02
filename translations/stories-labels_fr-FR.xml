@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- smartling.translate_paths = translations/translation -->
+<!-- smartling.source_key_paths = translations/{translation.smartlingKey} -->
+<!-- smartling.variants_enabled = FALSE -->
+<!-- smartling.placeholder_format_custom = \{.+?\} -->
+<translations xmlns="http://www.hm.com/2017/OnlineTranslations" generatorVersion="1.0.9-SNAPSHOT">
+  <translation key="text.account.email" smartlingKey="text.account.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="checkout.mobile.email" smartlingKey="checkout.mobile.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="forgottenPwd.email" smartlingKey="forgottenPwd.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="order.confirmation.email" smartlingKey="order.confirmation.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="profile.order.email" smartlingKey="profile.order.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="register.email" smartlingKey="register.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="register.mobile.email" smartlingKey="register.mobile.email 1" system="hybris" subsystem="frontend">email</translation>
+  <translation key="guest.pwd" smartlingKey="guest.pwd 2" system="hybris" subsystem="frontend">Créer un mot de passe</translation>
+  <translation key="register.pwd" smartlingKey="register.pwd 2" system="hybris" subsystem="frontend">Créer un mot de passe</translation>
+  <translation key="j_password" smartlingKey="j_password 2" system="hybris" subsystem="frontend">Créer un mot de passe</translation>
+  <translation key="passwordText" smartlingKey="passwordText 2" system="hybris" subsystem="frontend">Créer un mot de passe</translation>
+  <translation key="cart.sign.in" smartlingKey="cart.sign.in 3" system="hybris" subsystem="frontend">Connexion</translation>
+  <translation key="checkout.multi.signIn" smartlingKey="checkout.multi.signIn 3" system="hybris" subsystem="frontend">Connexion</translation>
+  <translation key="checkout.login.page.sign.in" smartlingKey="checkout.login.page.sign.in 3" system="hybris" subsystem="frontend">Connexion</translation>
+  <translation key="cart.shopping.signIn" smartlingKey="cart.shopping.signIn 4" system="hybris" subsystem="frontend">Connexion</translation>
+  <translation key="header.link.signin" smartlingKey="header.link.signin 4" system="hybris" subsystem="frontend">Connexion</translation>
+  <translation key="login.title" smartlingKey="login.title 5" system="hybris" subsystem="frontend">CLIENT DE RETOUR</translation>
+  <translation key="forgottenPwd.title" smartlingKey="forgottenPwd.title 6" system="hybris" subsystem="frontend">Vous avez oublié votre mot de passe ?</translation>
+  <translation key="login.link.forgottPwd" smartlingKey="login.link.forgottPwd 6" system="hybris" subsystem="frontend">Vous avez oublié votre mot de passe ?</translation>
+  <translation key="forgottenPwd.mobile.title" smartlingKey="forgottenPwd.mobile.title 6" system="hybris" subsystem="frontend">Vous avez oublié votre mot de passe ?</translation>
+  <translation key="register.newCustomer" smartlingKey="register.newCustomer 7" system="hybris" subsystem="frontend">NOUVEAU CLIENT</translation>
+  <translation key="guest.register.newAccount" smartlingKey="guest.register.newAccount 8" system="hybris" subsystem="frontend">Créez un compte pour un shopping fluide et facile!</translation>
+  <translation key="checkout.login.page.create.new.account" smartlingKey="checkout.login.page.create.new.account 9" system="hybris" subsystem="frontend">Créez un nouveau compte pour faciliter les achats.</translation>
+  <translation key="sidecart.your.order" smartlingKey="sidecart.your.order 10" system="hybris" subsystem="frontend">VOTRE COMMANDE</translation>
+  <translation key="profile.order.quantity" smartlingKey="profile.order.quantity 11" system="hybris" subsystem="frontend">quantité:</translation>
+  <translation key="sidecart.quantity" smartlingKey="sidecart.quantity 11" system="hybris" subsystem="frontend">quantité:</translation>
+  <translation key="profile.order.color" smartlingKey="profile.order.color 12" system="hybris" subsystem="frontend">en couleur:</translation>
+  <translation key="sidecart.color" smartlingKey="sidecart.color 13" system="hybris" subsystem="frontend">en couleur:</translation>
+  <translation key="sidecart.size" smartlingKey="sidecart.size 14" system="hybris" subsystem="frontend">taille:</translation>
+  <translation key="profile.order.size" smartlingKey="profile.order.size 14" system="hybris" subsystem="frontend">taille:</translation>
+  <translation key="order.totals.total" smartlingKey="order.totals.total 15" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="order.confirmation.total" smartlingKey="order.confirmation.total 16" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="order.confirmation.product.total" smartlingKey="order.confirmation.product.total 17" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="profile.order.total" smartlingKey="profile.order.total 18" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="sidecart.total" smartlingKey="sidecart.total 19" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="basket.order.value" smartlingKey="basket.order.value 20" system="hybris" subsystem="frontend">VALEUR DE L&apos;ORDRE:</translation>
+  <translation key="basket.page.order.value" smartlingKey="basket.page.order.value 20" system="hybris" subsystem="frontend">VALEUR DE L&apos;ORDRE:</translation>
+  <translation key="basket.page.discount" smartlingKey="basket.page.discount 21" system="hybris" subsystem="frontend">remise:</translation>
+  <translation key="profile.order.discount" smartlingKey="profile.order.discount 21" system="hybris" subsystem="frontend">remise:</translation>
+  <translation key="basket.page.delivery.standard" smartlingKey="basket.page.delivery.standard 22" system="hybris" subsystem="frontend">livraison:</translation>
+  <translation key="basket.page.total" smartlingKey="basket.page.total 23" system="hybris" subsystem="frontend">total</translation>
+  <translation key="basket.page.totals.total" smartlingKey="basket.page.totals.total 24" system="hybris" subsystem="frontend">total:</translation>
+  <translation key="order.total" smartlingKey="order.total 25" system="hybris" subsystem="frontend">total</translation>
+  <translation key="order.confirmation.total2" smartlingKey="order.confirmation.total2 26" system="hybris" subsystem="frontend">total</translation>
+  <translation key="register.hmDetails" smartlingKey="register.hmDetails 27" system="hybris" subsystem="frontend">ENTREZ VOS COORDONNÉES</translation>
+  <translation key="checkout.register.enter.your.details" smartlingKey="checkout.register.enter.your.details 27" system="hybris" subsystem="frontend">ENTREZ VOS COORDONNÉES</translation>
+  <translation key="register.hmEmail.info" smartlingKey="register.hmEmail.info 28" system="hybris" subsystem="frontend">Nous enverrons votre confirmation de commande à cette adresse.</translation>
+  <translation key="register.checkPwd" smartlingKey="register.checkPwd 29" system="hybris" subsystem="frontend">Répéter le mot de passe</translation>
+  <translation key="ADDRESS.country.label.text" smartlingKey="ADDRESS.country.label.text 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="CUSTOMER.country.label.text" smartlingKey="CUSTOMER.country.label.text 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="CUSTOMER.country.label.text" smartlingKey="CUSTOMER.country.label.text 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="register.mobile.address.country" smartlingKey="register.mobile.address.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="text.account.country" smartlingKey="text.account.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="address-book.country" smartlingKey="address-book.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="address.country" smartlingKey="address.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="chcekout.address.country" smartlingKey="chcekout.address.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="checkout.country" smartlingKey="checkout.country 30" system="hybris" subsystem="frontend">pays</translation>
+  <translation key="registration.hmChangeCountry" smartlingKey="registration.hmChangeCountry 31" system="hybris" subsystem="frontend">Mauvais pays ?</translation>
+  <translation key="checkout.register.enter.not.right.country" smartlingKey="checkout.register.enter.not.right.country 32" system="hybris" subsystem="frontend">Mauvais pays ?</translation>
+  <translation key="register.hmAgree" smartlingKey="register.hmAgree 33" system="hybris" subsystem="frontend">Oui, j&apos;accepte l&apos;avis de confidentialité.</translation>
+  <translation key="register.hmConditions" smartlingKey="register.hmConditions 34 {0} link starts {1} link ends" system="hybris" subsystem="frontend">I agree to let H&amp;M process my personal data in order to manage my personal account, in accordance with H&amp;M&apos;s {0}Privacy Notice{1}.</translation>
+  <translation key="checkout.multi.deliveryAddress" smartlingKey="checkout.multi.deliveryAddress 35" system="hybris" subsystem="frontend">2. DELIVERY et PAYMENT</translation>
+  <translation key="checkout.multi.deliveryAddress.address" smartlingKey="checkout.multi.deliveryAddress.address 36" system="hybris" subsystem="frontend">Mes informations</translation>
+  <translation key="checkout.login.address" smartlingKey="checkout.login.address 36" system="hybris" subsystem="frontend">Mes informations</translation>
+  <translation key="storeDetails.table.address" smartlingKey="storeDetails.table.address 36" system="hybris" subsystem="frontend">Mes informations</translation>
+  <translation key="text.account.address" smartlingKey="text.account.address 36" system="hybris" subsystem="frontend">Mes informations</translation>
+  <translation key="paymentMethod.billingAddress.header" smartlingKey="paymentMethod.billingAddress.header 37" system="hybris" subsystem="frontend">domicile</translation>
+  <translation key="checkout.multi.deliveryAddress.billingAddress" smartlingKey="checkout.multi.deliveryAddress.billingAddress 37" system="hybris" subsystem="frontend">domicile</translation>
+  <translation key="checkout.multi.paymentMethod.addPaymentDetails.billingAddress" smartlingKey="checkout.multi.paymentMethod.addPaymentDetails.billingAddress 37" system="hybris" subsystem="frontend">domicile</translation>
+  <translation key="checkout.home.address" smartlingKey="checkout.home.address 37" system="hybris" subsystem="frontend">domicile</translation>
+  <translation key="CUSTOMER.firstName.label.text" smartlingKey="CUSTOMER.firstName.label.text 38" system="hybris" subsystem="frontend">prénom</translation>
+  <translation key="text.account.first.name" smartlingKey="text.account.first.name 38" system="hybris" subsystem="frontend">prénom</translation>
+  <translation key="account.firstName" smartlingKey="account.firstName 38" system="hybris" subsystem="frontend">prénom</translation>
+  <translation key="address-book.firstName" smartlingKey="address-book.firstName 38" system="hybris" subsystem="frontend">prénom</translation>
+  <translation key="address.firstName" smartlingKey="address.firstName 39" system="hybris" subsystem="frontend">prénom</translation>
+  <translation key="CUSTOMER.lastName.label.text" smartlingKey="CUSTOMER.lastName.label.text 40" system="hybris" subsystem="frontend">Nom de famille</translation>
+  <translation key="text.account.lastname" smartlingKey="text.account.lastname 40" system="hybris" subsystem="frontend">Nom de famille</translation>
+  <translation key="address.surname" smartlingKey="address.surname 40" system="hybris" subsystem="frontend">Nom de famille</translation>
+  <translation key="address-book.lastName" smartlingKey="address-book.lastName 40" system="hybris" subsystem="frontend">Nom de famille</translation>
+  <translation key="account.lastName" smartlingKey="account.lastName 40" system="hybris" subsystem="frontend">Nom de famille</translation>
+  <translation key="checkout.orderDetails.name" smartlingKey="checkout.orderDetails.name 41" system="hybris" subsystem="frontend">nom</translation>
+  <translation key="address-book.line1" smartlingKey="address-book.line1 42" system="hybris" subsystem="frontend">Ligne d&apos;adresse 1</translation>
+  <translation key="ADDRESS.line2.label.text" smartlingKey="ADDRESS.line2.label.text 43" system="hybris" subsystem="frontend">Ligne d&apos;adresse 2</translation>
+  <translation key="text.account.address2" smartlingKey="text.account.address2 43" system="hybris" subsystem="frontend">Ligne d&apos;adresse 2</translation>
+  <translation key="address-book.line2" smartlingKey="address-book.line2 43" system="hybris" subsystem="frontend">Ligne d&apos;adresse 2</translation>
+  <translation key="checkout.line2" smartlingKey="checkout.line2 43" system="hybris" subsystem="frontend">Ligne d&apos;adresse 2</translation>
+  <translation key="address.postalcode" smartlingKey="address.postalcode 44" system="hybris" subsystem="frontend">Code postal</translation>
+  <translation key="address.postcode" smartlingKey="address.postcode 44" system="hybris" subsystem="frontend">Code postal</translation>
+  <translation key="address.zipcode" smartlingKey="address.zipcode 44" system="hybris" subsystem="frontend">Code postal</translation>
+  <translation key="address-book.postalCode" smartlingKey="address-book.postalCode 44" system="hybris" subsystem="frontend">Code postal</translation>
+  <translation key="checkout.address.postal.code" smartlingKey="checkout.address.postal.code 44" system="hybris" subsystem="frontend">Code postal</translation>
+  <translation key="checkout.continue.to.delivery" smartlingKey="checkout.continue.to.delivery 45" system="hybris" subsystem="frontend">CONTINUER À LIVRER</translation>
+  <translation key="checkout.delivery.header" smartlingKey="checkout.delivery.header 46" system="hybris" subsystem="frontend">livraison</translation>
+  <translation key="order.confirmation.delivery" smartlingKey="order.confirmation.delivery 47" system="hybris" subsystem="frontend">livraison:</translation>
+  <translation key="order.confirmation.total.delivery" smartlingKey="order.confirmation.total.delivery 47" system="hybris" subsystem="frontend">livraison:</translation>
+  <translation key="profile.order.delivery" smartlingKey="profile.order.delivery 47" system="hybris" subsystem="frontend">livraison:</translation>
+  <translation key="checkout.payment.header" smartlingKey="checkout.payment.header 48" system="hybris" subsystem="frontend">Paiements et remises</translation>
+  <translation key="checkout.consent.to.the" smartlingKey="checkout.consent.to.the 49" system="hybris" subsystem="frontend">Oui, j&apos;accepte</translation>
+  <translation key="checkout.privacy.policy" smartlingKey="checkout.privacy.policy 51" system="hybris" subsystem="frontend">Avis de confidentialité.</translation>
+  <translation key="checkout.summary.placeOrder" smartlingKey="checkout.summary.placeOrder 52" system="hybris" subsystem="frontend">ACHAT COMPLET</translation>
+  <translation key="checkout.delivery.chooseDeliveryMode" smartlingKey="checkout.delivery.chooseDeliveryMode 53" system="hybris" subsystem="frontend">Choisissez la méthode de livraison</translation>
+  <translation key="checkout.delivery.preferences" smartlingKey="checkout.delivery.preferences 53" system="hybris" subsystem="frontend">Choisissez la méthode de livraison</translation>
+  <translation key="checkout.delivery.pref" smartlingKey="checkout.delivery.pref 53" system="hybris" subsystem="frontend">Choisissez la méthode de livraison</translation>
+  <translation key="checkout.multi.deliveryAddress.breadcrumb" smartlingKey="checkout.multi.deliveryAddress.breadcrumb 54" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="checkout.multi.deliveryAddress.stepHeader.done" smartlingKey="checkout.multi.deliveryAddress.stepHeader.done 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="basket.page.totals.delivery" smartlingKey="basket.page.totals.delivery 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="checkout.orderDetails.deliveryAddress" smartlingKey="checkout.orderDetails.deliveryAddress 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="checkout.summary.deliveryAddress" smartlingKey="checkout.summary.deliveryAddress 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="checkout.delivery.address" smartlingKey="checkout.delivery.address 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="order.confirmation.delivery.address" smartlingKey="order.confirmation.delivery.address 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="profile.order.delivery.address" smartlingKey="profile.order.delivery.address 55" system="hybris" subsystem="frontend">ADRESSE DE LIVRAISON</translation>
+  <translation key="checkout.delivery.use.billingAddress" smartlingKey="checkout.delivery.use.billingAddress 56" system="hybris" subsystem="frontend">Utilisez mon adresse.</translation>
+  <translation key="checkout.register.add.to.book" smartlingKey="checkout.register.add.to.book 57" system="hybris" subsystem="frontend">Ajoutez cette adresse à mon carnet d&apos;adresses.</translation>
+  <translation key="checkout.send.sms.notification" smartlingKey="checkout.send.sms.notification 58" system="hybris" subsystem="frontend">Envoyez-moi une notification de livraison dans un message texte</translation>
+  <translation key="checkout.mobile.number" smartlingKey="checkout.mobile.number 59" system="hybris" subsystem="frontend">numéro</translation>
+  <translation key="checkout.cellPhone" smartlingKey="checkout.cellPhone 59" system="hybris" subsystem="frontend">numéro</translation>
+  <translation key="checkout.continue.to.payment" smartlingKey="checkout.continue.to.payment 60" system="hybris" subsystem="frontend">CONTINUER À PAYER</translation>
+  <translation key="ADDRESS.postalCode.help.text" smartlingKey="ADDRESS.postalCode.help.text 61 0 = {Real example of zip code - #CP67}" system="hybris" subsystem="frontend">Enter your postal code. E.g. {0}</translation>
+  <translation key="checkout.delivery.enter.postCode" smartlingKey="checkout.delivery.enter.postCode 61 0 = {Real example of zip code - #CP67}" system="hybris" subsystem="frontend">Enter your postal code. E.g. {0}</translation>
+  <translation key="checkout.delivery.search" smartlingKey="checkout.delivery.search 62" system="hybris" subsystem="frontend">rechercher</translation>
+  <translation key="checkout.mobile.edit" smartlingKey="checkout.mobile.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="profile.form.button.edit" smartlingKey="profile.form.button.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="mobile.basket.page.edit" smartlingKey="mobile.basket.page.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="text.account.edit.details" smartlingKey="text.account.edit.details 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="checkout.multi.deliveryAddress.edit" smartlingKey="checkout.multi.deliveryAddress.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="checkout.multi.deliveryMethod.edit" smartlingKey="checkout.multi.deliveryMethod.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="checkout.payment.edit" smartlingKey="checkout.payment.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="checkout.delivery.edit" smartlingKey="checkout.delivery.edit 63" system="hybris" subsystem="frontend">réviser</translation>
+  <translation key="checkout.delivery.notification" smartlingKey="checkout.delivery.notification 64" system="hybris" subsystem="frontend">Numéro de téléphone pour les mises à jour de livraison</translation>
+  <translation key="checkout.payment.add.card" smartlingKey="checkout.payment.add.card 65" system="hybris" subsystem="frontend">Choisissez la méthode de paiement</translation>
+  <translation key="checkout.payment.card.name" smartlingKey="checkout.payment.card.name 66" system="hybris" subsystem="frontend">Nom du titulaire de la carte</translation>
+  <translation key="checkout.payment.card.name.info" smartlingKey="checkout.payment.card.name.info 67" system="hybris" subsystem="frontend">comme il apparaît sur votre carte.</translation>
+  <translation key="checkout.payment.card.date" smartlingKey="checkout.payment.card.date 68" system="hybris" subsystem="frontend">date</translation>
+  <translation key="payment.expiryDate" smartlingKey="payment.expiryDate 69" system="hybris" subsystem="frontend">date</translation>
+  <translation key="profile.hmPayment.expiration" smartlingKey="profile.hmPayment.expiration 69" system="hybris" subsystem="frontend">date</translation>
+  <translation key="checkout.confirm.cvv" smartlingKey="checkout.confirm.cvv 70" system="hybris" subsystem="frontend">Cvv</translation>
+  <translation key="checkout.three.digits.on.the.back" smartlingKey="checkout.three.digits.on.the.back 71" system="hybris" subsystem="frontend">Les trois derniers chiffres au dos de votre carte</translation>
+  <translation key="checkout.payment.card.remember" smartlingKey="checkout.payment.card.remember 72" system="hybris" subsystem="frontend">Rappelez-vous cette carte</translation>
+  <translation key="checkout.payment.header.card" smartlingKey="checkout.payment.header.card 73" system="hybris" subsystem="frontend">Méthode de paiement</translation>
+  <translation key="checkout.mobile.You.can.edit" smartlingKey="checkout.mobile.You.can.edit 74" system="hybris" subsystem="frontend">Vous pouvez modifier vos adresses en</translation>
+  <translation key="checkout.mobile.use.new.address" smartlingKey="checkout.mobile.use.new.address 75" system="hybris" subsystem="frontend">Utiliser une nouvelle adresse</translation>
+  <translation key="checkout.multi.deliveryAddress.useNewAddress" smartlingKey="checkout.multi.deliveryAddress.useNewAddress 76" system="hybris" subsystem="frontend">Ajouter une nouvelle adresse de livraison</translation>
+  <translation key="search.nav.done.button" smartlingKey="search.nav.done.button 77" system="hybris" subsystem="frontend">fini</translation>
+  <translation key="checkout.multi.address.done" smartlingKey="checkout.multi.address.done 78" system="hybris" subsystem="frontend">fini</translation>
+</translations>
