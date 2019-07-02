@@ -1,0 +1,36 @@
+{
+  "locales": [
+    {
+      "smartling": "fr-FR",
+      "application": "fr-FR"
+    },
+    {
+      "smartling": "de-DE",
+      "application": "de-DE"
+    },
+    {
+      "smartling": "pt-PT",
+      "application": "pt-PT"
+    },
+    {
+      "smartling": "es-ES",
+      "application": "es-ES"
+    },
+    {
+      "smartling": "it-IT",
+      "application": "it-IT"
+    }
+  ],
+  "resourceSets": [
+    {
+      "type": "javaProperties",
+      "pathRegex": "messages\\/.*\\.properties"
+    },
+    {
+      "type": "xml",
+      "authorizeContent": "false",
+      "pathRegex": "source\\/other.+\\.xml",
+      "translationPathExpression": "translations/${originalFile.baseName}_${locale}.${originalFile.extension}"
+    }
+  ]
+}
